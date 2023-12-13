@@ -1,10 +1,10 @@
 theme: jekyll-theme-minimal
-title: A beer quest: Finding the Bobo
+title: A beer quest - Finding the Bobo
 description: During the 2010s, gluten-free food made a breakthrough in popularity and was much more available in general shops. Interestingly, in France and Belgium, people came up with stereotypes regarding gluten-free consumers and products, describing such a trend as a flash in a pan. One of those stereotypes is about the persona of gluten-free buyers, often described as urban snobbish people who want to distinguish themselves socially by consuming non-usual products, called "Bobo" in European French-speaking areas.
 show_downloads: True
 navigation:
   - title: Home
-    url: README   
+    url: /   
   - title: Example
     url: example
 
