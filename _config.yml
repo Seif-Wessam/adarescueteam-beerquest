@@ -6,11 +6,11 @@ description: Our adventure takes place during the 2010s, gluten-free food made a
 The international Beer league sent us, the renowned elite Beer detectives to unveil the Bobos, study their characteristics and particularities, and determine if they are a threat to the international Beer drinker community.
 show_downloads: True
 navigation:
-  - title: Home
+  - title: Home_just not_now
     url: README   
   - title: Example
     url: example
 
-  - title: Trial
+  - title: Home
     url: trial
    
